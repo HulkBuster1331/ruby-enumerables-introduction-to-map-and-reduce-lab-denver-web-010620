@@ -99,7 +99,7 @@ def reduce_to_any_ture(source_array)
            
     i += 1
     end
-  return flase
+  return true
 end
  
 end
