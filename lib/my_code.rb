@@ -82,8 +82,9 @@ def reduce_to_all_true(source_array)
     total = 0 
     
     while i < source_array.length do
-      
-    
+      if total = 
+    end
+    total
 end
  
 
