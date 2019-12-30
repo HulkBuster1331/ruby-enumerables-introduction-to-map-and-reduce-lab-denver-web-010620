@@ -82,7 +82,7 @@ def reduce_to_all_true(source_array)
     value = 0 
     
       while i < source_array.length do
-        total += array[i]
+         return false if source_array[i] = false
     i += 1
     end
   total
